@@ -1,4 +1,4 @@
-# 📝 Note Service (Next Generation)
+# 📝 Note Service (AppSync/GQL edition)
 
 > A modern rewrite of [note-service](https://github.com/deeheber/note-service) built with AWS CDK, TypeScript, and GraphQL
 
